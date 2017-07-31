@@ -1,0 +1,2 @@
+# SCoolTime
+TimeTable generator
